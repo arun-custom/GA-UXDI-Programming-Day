@@ -166,7 +166,7 @@ div {
 - For this lab we will be creating a personal landing page using HTML and CSS.
 - A starter page has been created for you [here](about_me_starter_website/).
 - This is meant to be creative, but make sure to at least do the following:
-	- Add the class "fixed-top" to the header to make it stay in place during scroll.
+	- Add the class "fixed-top" to the navbar to make it stay in place during scroll.
 	- Use rgba colors to make the header navbar semi-transparent.
 	- Use Google Fonts to implement a font of your choice for the logo.
 	- Replace the picture of me with one of you :) You will need to look up the <img> tag to make this happen.
