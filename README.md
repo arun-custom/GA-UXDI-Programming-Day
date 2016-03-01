@@ -169,7 +169,7 @@ div {
 	- Add the class "fixed-top" to the navbar to make it stay in place during scroll.
 	- Use rgba colors to make the header navbar semi-transparent.
 	- Use Google Fonts to implement a font of your choice for the logo.
-	- Replace the picture of me with one of you :) You will need to look up the <img> tag to make this happen.
+	- Replace the picture of me with one of you :) You will need to look up the `img` tag to make this happen.
 	- Replace the picture of the motorcycle with a background of your choice (Hint: Have a look at the CSS to find out where this background comes from).
 	- Make the background of the banner have a parallax effect. Hint: Research the "background-attachment" property in CSS.
 	- Change the text throughout the page to reflect your own personal information.
