@@ -158,7 +158,7 @@ div {
 - Style them all differently via classes or ids (your choice) by giving them varying colors using a different method each time.
 - Make sure one uses a gradient.
 
-## Putting it Together
+## About Me Lab
 - Please refer to the project linked above.
 
 ## Overview of Back End Development
