@@ -9,5 +9,4 @@ In this class we will be going over the fundamentals of HTML and CSS to give you
 - Introduction to HTML
 - Introduction to CSS
 - CSS colors
-- Overview of back end web development
-- Introduction to algorithms
+- Putting it together lab
