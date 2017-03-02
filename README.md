@@ -123,7 +123,7 @@ CSS
 
 ## HTML Markup Lab
 
-- Please refer to the project linked above.
+- [Please refer to the project here](https://github.com/arun-projects/html_form)
 
 ## A Little More on CSS
 
@@ -176,4 +176,4 @@ div {
 
 ## About Me Lab
 
-- Please refer to the project linked above.
+- [Please refer to the project here](https://github.com/arun-projects/about_me)
